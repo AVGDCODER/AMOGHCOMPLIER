@@ -1,0 +1,6 @@
+{
+  "name": "C-Forge Online C Compiler & IDE",
+  "description": "A modern, high-performance online C code editor and compiler with real-time syntax highlighting, GCC and Clang execution, interactive stdin terminal, and dark mode theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
